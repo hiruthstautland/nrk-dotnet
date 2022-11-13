@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FB6XOezHfcnB/1RKTvxHbB4+VAGnevmEItuJT5LkcKePdqhvBgc12xeiv0c3CQHU98lg+BLZcnwua7hNtpcZZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hiruths\\OneDrive - Norsk helsenett SF\\Skrivebord\\HMS\\repos_priv\\dotnetskolen\\src\\api\\NRK.Dotnetskolen.Api.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hiruths\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
