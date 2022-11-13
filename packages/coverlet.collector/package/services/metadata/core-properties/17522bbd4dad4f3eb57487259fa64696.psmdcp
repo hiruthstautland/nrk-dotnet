@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
-  <dc:creator>tonerdo</dc:creator>
-  <dc:description>Coverlet is a cross platform code coverage library for .NET, with support for line, branch and method coverage.</dc:description>
-  <dc:identifier>coverlet.collector</dc:identifier>
-  <version>3.1.2</version>
-  <keywords>coverage testing unit-test lcov opencover quality</keywords>
-  <lastModifiedBy>NuGet.Build.Tasks.Pack, Version=6.1.0.62, Culture=neutral, PublicKeyToken=31bf3856ad364e35;</lastModifiedBy>
-</coreProperties>
